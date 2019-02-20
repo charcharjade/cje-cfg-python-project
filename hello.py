@@ -1,5 +1,6 @@
 # original testing
 print("Hello world!")
+print("Hi, my name is Kaylee!")
 #print("This is a test to see how good I am at this")
 #print("This is a test".title())
 #age=22
